@@ -1,0 +1,12 @@
+.venv/
+.venv39/
+__pycache__/
+*.pyc
+.DS_Store
+.mplcache/
+.preview/
+report/_tmp*
+report/*.pdf
+
+# Word 临时文件
+~$*
